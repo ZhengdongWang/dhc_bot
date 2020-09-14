@@ -17,4 +17,4 @@ Three options.
 
 `$ python dhc.py` in directory.
 
-Add `alias dhc='python /Users/path/to/dhc_bot/dhc.py'` to zshrc to run `dhc` in terminal.
+Add `alias dhc='python /path/to/dhc_bot/dhc.py'` to zshrc to run `dhc` in terminal.
