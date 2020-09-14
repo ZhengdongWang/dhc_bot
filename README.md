@@ -1,10 +1,20 @@
 # DHC Bot
 If you know, you know. Save time! No misclicks!
 
-Put unzipped [geckodriver](https://github.com/mozilla/geckodriver) in python bin (default `~/.local/bin` on MacOS).
+## Install
 
-[Install Selenium](https://selenium-python.readthedocs.io/installation.html) for python.
+Put unzipped [geckodriver](https://github.com/mozilla/geckodriver) in python bin (default `~/.local/bin` on MacOS). A version is provided in this repository.
 
-Clone and create password return file.
+[Install Selenium](https://selenium-python.readthedocs.io/installation.html) for python. Requires pip.
 
-`python dhc.py` or add a shortcut to your zshrc.
+Clone and edit login return file.
+
+## Run
+
+Three options.
+
+`$ chmod +x dhc.command` once, then double click on the executable in the future.
+
+`$ python dhc.py` in directory.
+
+Add `alias dhc='python /Users/path/to/dhc_bot/dhc.py'` to run `dhc` in terminal.
