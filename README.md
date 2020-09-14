@@ -7,7 +7,7 @@ Put unzipped [geckodriver](https://github.com/mozilla/geckodriver) in python bin
 
 [Install Selenium](https://selenium-python.readthedocs.io/installation.html) for python. Requires pip.
 
-Clone and edit login return file.
+Clone and edit login file.
 
 ## Run
 
